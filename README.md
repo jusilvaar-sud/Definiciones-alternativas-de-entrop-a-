@@ -1,1 +1,1 @@
-# Definiciones-alternativas-de-entrop-a-
+# Definiciones-alternativas-de-entropia-
