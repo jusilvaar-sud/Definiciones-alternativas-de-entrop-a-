@@ -9,7 +9,7 @@ Original file is located at
 
 import math
 
-"""El siguiente codigo tiene como proposito operar la formula de entropia propuesta por Boltzmann, cabe aclarar que el sistema maneja una magnitudes realistas (las que se manejan en ejercicios basicos de formula de bozemann es decir una entropia desde el orden de 10e-21 a 10e-24), Si se intenta calcular un valor demasiado grande o pequeño se generara un error propio de la libreria con la que se trabaja, tenga en cuenta usar punto y no coma, y a su vez escribir tal cual lo que se desea calcular "microestados compatibles con el macroestado" o "entropia" se recomiendo copiar y pegar para evitar errores"""
+"""El siguiente codigo tiene como proposito operar la formula de entropia propuesta por Boltzmann, cabe aclarar que el sistema maneja una magnitudes realistas (las que se manejan en ejercicios basicos de formula de boltzmann es decir una entropia desde el orden de 10e-21 a 10e-24), Si se intenta calcular un valor demasiado grande o pequeño se generara un error propio de la libreria con la que se trabaja, tenga en cuenta usar punto y no coma, y a su vez escribir tal cual lo que se desea calcular "microestados compatibles con el macroestado" o "entropia" se recomiendo copiar y pegar para evitar errores"""
 
 k = 1.380649e-23
 que_se_desea_calcular = input("¿Desea calcular entropia o el numero de microestados compatibles con el macroestado? ")
